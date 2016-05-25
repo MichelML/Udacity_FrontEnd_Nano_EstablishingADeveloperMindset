@@ -26,6 +26,22 @@ __AND REMEMBER:__
 
 <img src="Road-to-Success.jpg" width=500 alt="A messy line going up, imaging the road to success">
 
+
+## My career goals - a first draft
+
+1. Adding value by any way I can within companies and organizations that I admire and inspire me.
+2. Get hired as a software engineer (especially in the web or mobile services industry), with which I want to learn and fully integrate the full process of professional software development with experienced, senior mentors. 
+3. Work in organizations seeking to help humanity improve through technologies and innovation at massive scale.
+4. Start a company helping humanity improve through technologies and innovation at massive scale.
+
+I am currently in the process of finding mentors in Quebec City, Canada. This is my hometown and current location.
+
+### particular interests  
+
+My interests are mobile and web services, with a particular interest in the health sector/consumer health. 
+
+I love to learn about everything and I am constantly reading, mostly non-fiction books. Software development, the psychology of human motivation, anything related to business, and preventive medicine are my particular learning interests at the moment. After graduating from the Front End Web Developer Nanodegree, I plan on completing the Machine Learning Engineer Nanodegree and probably another one as well, such as the Senior Web Developer Nanodegree or the Android Developer Nanodegree. I am also working thoroughly on my written and spoken English as well.
+
 ## Principles - a first draft  
 
 That being said. Here are some other principles, some you believe in in the present moment, to put you in the right mindset:
@@ -70,25 +86,7 @@ That being said. Here are some other principles, some you believe in in the pres
 
 20. No reason not to let others help you [grow faster].  
 
-21. Keep smooth, flexible, natural soul and mind.  
-
-22. Let no one be your idol, only get principles from the best intellects, hearts, and ideas, from the past and today.
-
-## My career goals - a first draft
-
-1. Adding value by any way I can within companies and organizations that I admire and inspire me.
-2. Get hired as a software engineer (especially in the web or mobile services industry), with which I want to learn and fully integrate the full process of professional software development with experienced, senior mentors. 
-3. Work in organizations seeking to help humanity improve through technologies and innovation at massive scale.
-4. Start a company helping humanity improve through technologies and innovation at massive scale.
-
-I am currently in the process of finding mentors in Quebec City, Canada. This is my hometown and current location.
-
-### particular interests  
-
-My interests are mobile and web services, with a particular interest in the health sector/consumer health. 
-
-I love to learn about everything and I am constantly reading, mostly non-fiction books. Software development, the psychology of human motivation, anything related to business, and preventive medicine are my particular learning interests at the moment. After graduating from the Front End Web Developer Nanodegree, I plan on completing the Machine Learning Engineer Nanodegree and probably another one as well, such as the Senior Web Developer Nanodegree or the Android Developer Nanodegree. I am also working thoroughly on my written and spoken English as well.
-
+21. Let no one be your idol, only get principles from the best intellects, hearts, and ideas, from the past and today.
 
 ## Sincere thanks
 Thank you Udacity for this reflective and enriching exercise.
