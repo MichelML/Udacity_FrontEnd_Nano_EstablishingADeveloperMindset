@@ -44,7 +44,7 @@ I love to learn about everything and I am constantly reading, mostly non-fiction
 
 ## Principles - a first draft  
 
-That being said. Here are some other principles, some you believe in in the present moment, to put you in the right mindset:
+That being said. Here are some other principles to put you in the right mindset:
 
 1. Be here, now. Breathing, Calmness, Freeing your mind, Thinking, and then Doing...Only...One...Thing...At...A...Time.
 
