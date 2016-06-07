@@ -46,7 +46,7 @@ I love to learn about everything and I am constantly reading, mostly non-fiction
 
 That being said. Here are some other principles to put you in the right mindset:
 
-1. Be here, now. Breathing, Calmness, Freeing your mind, Thinking, and then Doing...Only...One...Thing...At...A...Time.
+1. Be here, now. Breath, Be silent, Free your mind, Think, and then Do...Only...One...Thing...At...A...Time.
 
 2. You will die, so will everyone, and things are never as important as you think they are. Be inspired, but not anxious. Do things lightly, but industriously. 
 
@@ -70,7 +70,7 @@ That being said. Here are some other principles to put you in the right mindset:
 
 12. Have clear short and long term goals. Deconstruct them and examine them regularly. 
 
-13. Make sure your goals give you goosebumps and make sure it helps humanity-do no harm.  
+13. Make sure your goals give you goosebumps and make sure it helps humanity-__do no harm__.  
 
 14. Be led by dreams, not fears. Always push through fear, this is how we grow.  
 
@@ -80,7 +80,7 @@ That being said. Here are some other principles to put you in the right mindset:
 
 17. No reason not to share and teach. __No reason__.  
 
-18. No reason not to find what is admirable in every individual - __emphasize the best in everyone__.  
+18. No reason not to find what is admirable in every individual. __Emphasize the best in everyone__.  
 
 19. No reason to hide from the truth. Always seek it.  
 
