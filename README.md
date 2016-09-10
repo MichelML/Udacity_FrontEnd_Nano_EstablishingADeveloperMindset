@@ -4,7 +4,7 @@ Dear Michel
 
 I hope you are doing well. However, if not...it's ok. I am serious, sincerely, please listen, it is __totally ok__. 
 
-You have the right to not feel ok Michel. Being not ok, you know, weirdly, is one hell of a SANE feeling to get as a human being. It means you are, in the present moment, realizing something is wrong, whether it is in your environment or within yourself, whether it is something you can explain or not. Now that this has been said, let's be proactive and examine how you can get out of that feeling of being stuck, and anxious about it.  
+You have the right to not feel ok Michel. Being not ok, weirdly, is a SANE human emotion. It means you are, in the present moment, realizing something is wrong, whether it is in your environment or within yourself, whether it is something you can explain or not. Now that you are aware of your situation, let's be proactive and examine how you can get out of that feeling of being stuck, and anxious about it.  
 
 Here are some things and strategies to keep in mind:
 
@@ -12,13 +12,13 @@ Here are some things and strategies to keep in mind:
 
 - Use the 5 Why's method, and follow through with 5 How's, in order to identify the problem and the solution.  
 
-- Have the courage to tell someone knowledgeable you are stuck. Reach out for help.  
+- Have the courage to tell someone knowledgeable you are stuck. Reach out for help. _Nobody succeeds alone, nobody_.  
 
 - Once you know the problem, deconstruct it. See how you can establish a detailed plan to get unstuck.  
 
-- Search through any useful information site to download new knowledge in your brain, and eventually, make new connections, and solve your problem.  
+- Search through any useful information sources to download new knowledge into your brain, make new connections, and solve your problem.  
 
-- Always remind yourself why you are doing what you are doing. Most of the time, when it is tough, it is WORTHWHILE. 
+- Remind yourself why you are doing what you are doing. Most of the time, when it is tough, it is WORTHWHILE. 
 
 - Write down your very best strengths. How can those help you move forward in the present moment?  
 
@@ -27,20 +27,15 @@ __AND REMEMBER:__
 <img src="Road-to-Success.jpg" width=500 alt="A messy line going up, imaging the road to success">
 
 
-## My career goals - a first draft
+## My career goals, a reminder
 
-1. Adding value by any way I can within companies and organizations that I admire and inspire me.
-2. Get hired as a software engineer (especially in the web or mobile services industry), with which I want to learn and fully integrate the full process of professional software development with experienced, senior mentors. 
-3. Work in organizations seeking to help humanity improve through technologies and innovation at massive scale.
-4. Start a company helping humanity improve through technologies and innovation at massive scale.
+1. Adding value by any way I can within companies and organizations solving the world's most important problems on a global scale.  
+2. Start a company helping humanity improve in terms of longevity, optimal state preservation, intelligence and knowledge, capacities, and poverty alleviation through technology and innovation on a global scale.
 
-I am currently in the process of finding mentors in Quebec City, Canada. This is my hometown and current location.
 
-### particular interests  
+### Particular interests  
 
-My interests are mobile and web services, with a particular interest in the health sector/consumer health. 
-
-I love to learn about everything and I am constantly reading, mostly non-fiction books. Software development, the psychology of human motivation, anything related to business, and preventive medicine are my particular learning interests at the moment. After graduating from the Front End Web Developer Nanodegree, I plan on completing the Machine Learning Engineer Nanodegree and probably another one as well, such as the Senior Web Developer Nanodegree or the Android Developer Nanodegree. I am also working thoroughly on my written and spoken English as well.
+I love to learn about everything and I am constantly reading, mostly non-fiction books. Software development, mathematics, the psychology of human motivation, business, and preventive medicine are my particular learning interests at the moment.
 
 ## Principles - a first draft  
 
