@@ -6,7 +6,7 @@ I hope you are doing well. However, if not...it's ok. I am serious, it is __tota
 
 You have the right to not feel ok Michel. Being not ok, weirdly, is a SANE human emotion. It means you are, in the present moment, realizing something is wrong, whether it is in your environment or within yourself, whether it is something you can explain or not. Now that you are aware of your situation, let's be proactive and examine how you can get out of that feeling of being stuck, and anxious about it.  
 
-Here are some things and strategies to keep in mind:
+Here are some things and strategies to get you unstuck:
 
 - You are not stuck forever. You are just not unstuck _yet_. Be proactive and patient. Think growth mindset.  
 
