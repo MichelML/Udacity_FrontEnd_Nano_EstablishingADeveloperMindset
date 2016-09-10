@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## A letter to self 
 
 Dear Michel
