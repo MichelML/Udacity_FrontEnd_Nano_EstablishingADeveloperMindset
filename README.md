@@ -1,3 +1,3 @@
 ## A letter to self 
 
-Think, feel, do, sense.
+Think, feel, intuit, sense.
